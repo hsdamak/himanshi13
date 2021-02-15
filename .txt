@@ -2,4 +2,8 @@ CRICKET
 It is the most popular game in India.
 It has 15 players in which 11 are playing ones.
 There are three umpires ,two onfield and one third umpire.
+ task2p2
+There are three formats i.e, one day ,test,T-20.
+
 In one day format there are 50 overs ,in T20 there are 20 overs while in test it is of 5 days.
+ 
